@@ -1,5 +1,5 @@
 
-## Remaster version for personal use credits, to the [Dharam D.](https://github.com/rkstrdee) 
+## Remaster version for personal use, credits to the [Dharam D.](https://github.com/rkstrdee) 
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
