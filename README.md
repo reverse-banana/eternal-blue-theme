@@ -1,6 +1,6 @@
 # [Night Hacker Dark Theme](https://marketplace.visualstudio.com/items?itemName=ddh4r4m.night-hacker-dark-theme)
 
-## Remaster version for personal use
+## Remaster version for personal use credits to the [Dharam D.](https://github.com/rkstrdee) 
 
 > A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
